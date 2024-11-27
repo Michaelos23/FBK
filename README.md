@@ -10,3 +10,6 @@
     <li>Vi uddanner frivillige trænere i at støtte børn og unges trivsel.</li>
     <li>Vi bidrager til fællesskabet i Virum gennem sport og engagement.</li>
 </ul>
+<h2>Se vores video</h2>
+<p>Vil du vide mere om vores arbejde? Se vores video, hvor vi fortæller, hvordan vi skaber en positiv og tryg oplevelse for børn og unge:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DIT_VIDEO_LINK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
