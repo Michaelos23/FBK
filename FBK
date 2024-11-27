@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Frivillig Boldklub i Virum, hvor vi arbejder for trivsel og sociale kompetencer gennem fodbold.">
+    <title>FBK - Frivillig Boldklub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Frivillig Boldklub (FBK)</h1>
+        <p>Fra Virum – Støtter børn og unge gennem fodbold og fællesskab.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">Om os</a></li>
+            <li><a href="#work">Hvad vi laver</a></li>
+            <li><a href="#video">Video</a></li>
+            <li><a href="#contact">Kontakt</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="about">
+            <h2>Om Frivillig Boldklub</h2>
+            <p>FBK er en frivillig forening fra Virum, der arbejder for at styrke unges trivsel og sociale kompetencer gennem fodbold. Vi tror på fællesskab, respekt og udvikling som nøgleelementer i deres hverdag.</p>
+        </section>
+
+        <section id="work">
+            <h2>Hvad vi laver</h2>
+            <ul>
+                <li>Organiserer fodboldtræning for børn og unge.</li>
+                <li>Arrangerer sociale aktiviteter for vores medlemmer.</li>
+                <li>Uddanner frivillige trænere til at støtte børns trivsel.</li>
+                <li>Styrker fællesskabet i Virum gennem sport og samarbejde.</li>
+            </ul>
+        </section>
+
+        <section id="video">
+            <h2>Se vores video</h2>
+            <p>Hør mere om, hvordan vi arbejder med trivsel og sociale kompetencer:</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/DIT_VIDEO_LINK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </section>
+
+        <section id="contact">
+            <h2>Kontakt os</h2>
+            <p>Har du spørgsmål eller ønsker at blive frivillig? Kontakt os på:</p>
+            <ul>
+                <li>Email: <a href="mailto:info@fbkvirum.dk">info@fbkvirum.dk</a></li>
+                <li>Telefon: 12 34 56 78</li>
+                <li>Adresse: Stadionvej 10, 2830 Virum</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Frivillig Boldklub. Alle rettigheder forbeholdes.</p>
+    </footer>
+</body>
+</html>
 
